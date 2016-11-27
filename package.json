@@ -1,0 +1,23 @@
+{
+  "bugs": {
+    "url": "https://github.com/checkui/plugin-title-length/issues"
+  },
+  "devDependencies": {
+    "eslint": "^3.10.2",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.7.1"
+  },
+  "license": "MIT",
+  "repository": {
+    "url": "git@github.com:checkui/plugin-title-length.git",
+    "type": "git"
+  },
+  "scripts": {
+    "test": "npm run test:lint && npm run test:unit",
+    "test:lint": "eslint .",
+    "test:unit": "mocha test",
+    "test:unit:watch": "mocha test --watch"
+  }
+}
