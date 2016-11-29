@@ -1,4 +1,4 @@
-# Plugin: Title length
+# Title length plugin
 
 [![CircleCI](https://circleci.com/gh/checkui/plugin-title-length.svg?style=svg)](https://circleci.com/gh/checkui/plugin-title-length)
 
