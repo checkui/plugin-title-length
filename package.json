@@ -2,6 +2,12 @@
   "bugs": {
     "url": "https://github.com/checkui/plugin-title-length/issues"
   },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "mocha": "^3.2.0"
+  },
   "devDependencies": {
     "eslint": "^3.10.2",
     "eslint-config-airbnb": "^13.0.0",
@@ -19,12 +25,5 @@
     "test:lint": "eslint .",
     "test:unit": "mocha test",
     "test:unit:watch": "mocha test --watch"
-  },
-  "dependencies": {
-    "body-parser": "^1.15.2",
-    "cheerio": "^0.22.0",
-    "express": "^4.14.0",
-    "install": "^0.8.2",
-    "npm": "^4.0.2"
   }
 }
