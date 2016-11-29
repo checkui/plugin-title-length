@@ -26,5 +26,6 @@
     "test:lint": "eslint .",
     "test:unit": "mocha test",
     "test:unit:watch": "mocha test --watch"
-  }
+  },
+  "version": "1.0.0"
 }
