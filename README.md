@@ -1,5 +1,7 @@
 # plugin: Title length
 
+[![CircleCI](https://circleci.com/gh/checkui/plugin-title-length.svg?style=svg)](https://circleci.com/gh/checkui/plugin-title-length)
+
 This plugin is simply a "hello world".
 
 It simply measures the length of a webpage `title` meta tag `value`.
